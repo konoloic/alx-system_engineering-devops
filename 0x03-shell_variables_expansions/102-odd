@@ -1,1 +1,2 @@
 #!/bin/bash
+echo 'perl -ne 'print if ($.%2)''
